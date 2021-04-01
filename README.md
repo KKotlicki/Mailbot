@@ -3,12 +3,12 @@
 ## Description
 
 This repository contains a code of mail bot;
-The code is universal and cross-platform compatible
+The bot sends provided HTML or AMPHTML email from given email sender to recipients from excel list.
 
 
 ## Setup
 Before running the script, go to resources folder and:
-1. replace the example message.txt file with your HTML .txt file
+1. replace the example message.txt file with your HTML or AMPHTML .txt file
 2. update .xlsx list of recipients (do not change "Date Sent:" column - bot does it automatically, if sent successfully)
 
 
